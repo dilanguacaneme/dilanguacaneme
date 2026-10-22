@@ -34,30 +34,23 @@ Soy un desarrollador de software apasionado por la creación de soluciones backe
 
 ### 📌 Proyectos Destacados
 
-> *(Sustituye los enlaces `tu-usuario` por tus enlaces reales de GitHub)*
 
-* **[Dunamis Makeup - E-Commerce API & Management](https://github.com/tu-usuario/dunamis-makeup)**
-  * *Sistema Full Stack de inventario y comercio electrónico.*
-  * **Tech:** Java, Spring Boot, MySQL, React.
-* **[Sistema de Gestión de Citas Médicas](https://github.com/tu-usuario/sistema_citas_medicas)**
-  * *API RESTful para administración de pacientes, doctores y agendas médicas.*
-  * **Tech:** Java, Spring Boot, JPA/Hibernate, MySQL.
-* **[Caso de Estudio - Inventario y Facturación](https://github.com/tu-usuario/caso-de-estudio)**
-  * *Módulo backend con consultas JPQL personalizadas y alertas automáticas de stock.*
-  * **Tech:** Java, Spring Boot, REST APIs.
 
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
+* **[Dunamis Makeup - API & Management](https://github.com/dilanguacaneme/dunamis-makeup.git)**
+  * *Sistema Full Stack de inventario, facturación, comercio electrónico y análisis de datos de venta.*
+  * **Tech:** Java, Spring Boot, PostgreSQL, React.
+* **[Sistema de Gestión de Citas Médicas](https://github.com/dilanguacaneme/sistema-citas-medicas.git)**
+  * *API REST para registrar y consultar pacientes, médicos y citas; incluye consulta de citas por documento y visualización de agendas médicas.*
+  * **Tech:** Java 17, Spring Boot, Spring Data JPA, Hibernate, MySQL.
+* **[Tienda Doña Rosa](https://github.com/dilanguacaneme/tienda-dona-rosa.git)**
+  * *Aplicación de gestión de inventario y facturación con API REST, control de stock bajo e interfaz web en React.*
+  * **Tech:** Java 17, Spring Boot, Spring Data JPA, MySQL, React.
 
 ---
+
+
 
 ### 📫 ¡Hablemos!
 
 - **LinkedIn:** https://www.linkedin.com/in/dilan-javier-guacaneme-herrera-2a5a30189/?isSelfProfile=true
-- **Email:** `tu-correo@email.com`
+- **Email:** `dilanjg23@gmail.com`
